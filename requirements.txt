@@ -1,0 +1,9 @@
+gradio
+opencv-python
+openai
+lancedb
+pyarrow
+pandas
+numpy
+ffmpeg-python
+langchain-openai
